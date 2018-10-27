@@ -1,0 +1,9 @@
+D:\Jason\src\google-drive-backup\google-drive-backup-core\bin\Debug\google-drive-backup-core.dll
+D:\Jason\src\google-drive-backup\google-drive-backup-core\bin\Debug\google-drive-backup-core.pdb
+D:\Jason\src\google-drive-backup\google-drive-backup-core\bin\Debug\Newtonsoft.Json.dll
+D:\Jason\src\google-drive-backup\google-drive-backup-core\bin\Debug\Newtonsoft.Json.xml
+D:\Jason\src\google-drive-backup\google-drive-backup-core\obj\Debug\google-drive-backup-core.csprojAssemblyReference.cache
+D:\Jason\src\google-drive-backup\google-drive-backup-core\obj\Debug\google-drive-backup-core.csproj.CoreCompileInputs.cache
+D:\Jason\src\google-drive-backup\google-drive-backup-core\obj\Debug\google-drive-backup-core.csproj.CopyComplete
+D:\Jason\src\google-drive-backup\google-drive-backup-core\obj\Debug\google-drive-backup-core.dll
+D:\Jason\src\google-drive-backup\google-drive-backup-core\obj\Debug\google-drive-backup-core.pdb
