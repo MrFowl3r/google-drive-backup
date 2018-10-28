@@ -1,4 +1,6 @@
-bin\debug\*
-obj\debug\*
+bin/debug/*
+obj/debug/*
 packages
 .vs
+google-drive-backup/bin/debug/*
+google-drive-backup/obj/debug/*
